@@ -18,11 +18,15 @@
 
 🔧 **Current Project Focus:**
 
--   📍 **Work Placement**: Transferring WebForms authentication to [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
--   🔄 Using a [reverse proxy](https://github.com/dotnet/yarp) with our custom code
--   ✅ **Status**: [COMPLETED!](https://github.com/Cyperus-aucheri/WebFormsApplicationWithBlazorApplication) 🎉
+-   📍 **Work Placement**: Creating a Medical Chatbot API
+-   🩺 For people with mental health issues
+-   ✅ **Status**: [COMPLETED!](https://github.com/Aucheri/OTIS) 🎉
 
 ---
+
+> 💼 **We are all looking for degree apprenticeships in Software Development!**
+
+> 📕 **Our team focus at the moment is using tickets, branches and pull requests on Git correctly**
 
 # 👥 Meet us all!
 
